@@ -37,7 +37,9 @@ This Power BI dashboard analyzes payment transactions and user activity to provi
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1297" height="737" alt="1st" src="https://github.com/user-attachments/assets/9465bd84-66c5-4424-b61c-f077d14dd05a" />
+<img width="1277" height="731" alt="2nd" src="https://github.com/user-attachments/assets/bc6ac584-6e28-4a1c-83c5-39c0932120a7" />
+
 
 ## Author
 
